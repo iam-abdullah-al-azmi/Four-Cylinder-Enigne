@@ -12,7 +12,9 @@ Future work could add the missing engine parts, apply real materials and fits, r
 
 ## Computational Design
 
-### Piston
+### 1. Piston
+
+#### 1.1 Views
 
 |   View    |                     Image                      |
 | :-------: | :--------------------------------------------: |
@@ -23,7 +25,7 @@ Future work could add the missing engine parts, apply real materials and fits, r
 |  Bottom   |    ![Bottom](images/piston_bottom_view.JPG)    |
 |  Section  |   ![Section](images/piston_section_view.JPG)   |
 
-### Piston Feature Tree
+#### 1.2 Feature Tree
 
 | No  |      Name      |
 | :-: | :------------: |
@@ -34,13 +36,15 @@ Future work could add the missing engine parts, apply real materials and fits, r
 | 05  |     Fillet     |
 | 06  |     Mirror     |
 
-### Piston Feature Tree Image
+#### 1.3 Feature Tree Image
 
 | No  | Image |
 | :-: | :---: |
 | 01  | ![Piston Feature Tree](images/piston_feature_tree.png) |
 
-### Piston Ring
+### 2. Piston Ring
+
+#### 2.1 Views
 
 |   View    |                        Image                        |
 | :-------: | :-------------------------------------------------: |
@@ -49,19 +53,21 @@ Future work could add the missing engine parts, apply real materials and fits, r
 |    Top    |       ![Top](images/piston_ring_top_view.JPG)       |
 |  Section  |   ![Section](images/piston_ring_section_view.JPG)   |
 
-### Piston Ring Feature Tree
+#### 2.2 Feature Tree
 
 | No  |     Name     |
 | :-: | :----------: |
 | 01  | Boss Extrude |
 
-### Piston Ring Feature Tree Image
+#### 2.3 Feature Tree Image
 
 | No  | Image |
 | :-: | :---: |
 | 01  | ![Piston Ring Feature Tree](images/piston_ring_feature_tree.png) |
 
-### Crankshaft
+### 3. Crankshaft
+
+#### 3.1 Views
 
 |   View    |                       Image                        |
 | :-------: | :------------------------------------------------: |
@@ -72,7 +78,7 @@ Future work could add the missing engine parts, apply real materials and fits, r
 |   Front   |     ![Front](images/crankshaft_front_view.JPG)     |
 |  Section  |   ![Section](images/crankshaft_section_view.JPG)   |
 
-### Crankshaft Feature Tree
+#### 3.2 Feature Tree
 
 | No  |      Name      |
 | :-: | :------------: |
@@ -83,13 +89,15 @@ Future work could add the missing engine parts, apply real materials and fits, r
 | 05  |    Combine     |
 | 06  |     Fillet     |
 
-### Crankshaft Feature Tree Image
+#### 3.3 Feature Tree Image
 
 | No  | Image |
 | :-: | :---: |
 | 01  | ![Crankshaft Feature Tree](images/crankshaft_feature_tree.png) |
 
-### Connecting Rod
+### 4. Connecting Rod
+
+#### 4.1 Views
 
 |   View    |                         Image                          |
 | :-------: | :----------------------------------------------------: |
@@ -100,7 +108,7 @@ Future work could add the missing engine parts, apply real materials and fits, r
 |  Bottom   |    ![Bottom](images/connecting_rod_bottom_view.JPG)    |
 |  Section  |   ![Section](images/connecting_rod_section_view.JPG)   |
 
-### Connecting Rod Feature Tree
+#### 4.2 Feature Tree
 
 | No  |     Name     |
 | :-: | :----------: |
@@ -110,13 +118,15 @@ Future work could add the missing engine parts, apply real materials and fits, r
 | 04  |    Fillet    |
 | 05  |    Mirror    |
 
-### Connecting Rod Feature Tree Image
+#### 4.3 Feature Tree Image
 
 | No  | Image |
 | :-: | :---: |
 | 01  | ![Connecting Rod Feature Tree](images/connecting_rod_feature_tree.png) |
 
-### Connecting Rod Cap
+### 5. Connecting Rod Cap
+
+#### 5.1 Views
 
 |   View    |                           Image                            |
 | :-------: | :--------------------------------------------------------: |
@@ -127,7 +137,7 @@ Future work could add the missing engine parts, apply real materials and fits, r
 |  Bottom   |    ![Bottom](images/connecting_rod_cap_bottom_view.JPG)    |
 |  Section  |   ![Section](images/connecting_rod_cap_section_view.JPG)   |
 
-### Connecting Rod Cap Feature Tree
+#### 5.2 Feature Tree
 
 | No  |     Name     |
 | :-: | :----------: |
@@ -136,13 +146,15 @@ Future work could add the missing engine parts, apply real materials and fits, r
 | 03  | Cut Extrude  |
 | 04  |    Fillet    |
 
-### Connecting Rod Cap Feature Tree Image
+#### 5.3 Feature Tree Image
 
 | No  | Image |
 | :-: | :---: |
 | 01  | ![Connecting Rod Cap Feature Tree](images/connecting_rod_cap_feature_tree.png) |
 
-### Piston Pin
+### 6. Piston Pin
+
+#### 6.1 Views
 
 |   View    |                       Image                        |
 | :-------: | :------------------------------------------------: |
@@ -151,20 +163,22 @@ Future work could add the missing engine parts, apply real materials and fits, r
 |    Top    |       ![Top](images/piston_pin_top_view.JPG)       |
 |  Section  |   ![Section](images/piston_pin_section_view.JPG)   |
 
-### Piston Pin Feature Tree
+#### 6.2 Feature Tree
 
 | No  |     Name     |
 | :-: | :----------: |
 | 01  | Boss Extrude |
 | 02  |   Chamfer    |
 
-### Piston Pin Feature Tree Image
+#### 6.3 Feature Tree Image
 
 | No  | Image |
 | :-: | :---: |
 | 01  | ![Piston Pin Feature Tree](images/piston_pin_feature_tree.png) |
 
-### Final Design (Assembly)
+### 7. Final Design (Assembly)
+
+#### 7.1 Views
 
 |   View    |                        Image                         |
 | :-------: | :--------------------------------------------------: |
@@ -176,7 +190,7 @@ Future work could add the missing engine parts, apply real materials and fits, r
 |  Bottom   |    ![Bottom](images/final_design_bottom_view.JPG)    |
 |  Section  |   ![Section](images/final_design_section_view.JPG)   |
 
-### Final Design Feature Tree
+#### 7.2 Feature Tree
 
 | No  |       Name        |
 | :-: | :---------------: |
@@ -221,12 +235,14 @@ I thank my course instructors and the Islamic University of Technology (IUT) for
 
 ## References
 
-1. Wikipedia, "Straight-four engine." [https://en.wikipedia.org/wiki/Straight-four_engine](https://en.wikipedia.org/wiki/Straight-four_engine)
-2. Wikipedia, "Piston ring." [https://en.wikipedia.org/wiki/Piston_ring](https://en.wikipedia.org/wiki/Piston_ring)
-3. Wikipedia, "Crankshaft." [https://en.wikipedia.org/wiki/Crankshaft](https://en.wikipedia.org/wiki/Crankshaft)
-4. Wikipedia, "Connecting rod." [https://en.wikipedia.org/wiki/Connecting_rod](https://en.wikipedia.org/wiki/Connecting_rod)
-5. Wikipedia, "Gudgeon pin." [https://en.wikipedia.org/wiki/Gudgeon_pin](https://en.wikipedia.org/wiki/Gudgeon_pin)
-6. Perkins, "Piston rings have triple purpose." [https://www.perkins.com/en_GB/aftermarket/overhaul/overhaul-components/cylinder-components/piston-rings.html](https://www.perkins.com/en_GB/aftermarket/overhaul/overhaul-components/cylinder-components/piston-rings.html)
-7. FIRGELLI Automations, "Four Cylinder Motor Mechanism: How It Works, Diagram, Parts, Firing Order and Uses Explained." [https://www.firgelliauto.com/blogs/mechanisms/four-cylinder-motor](https://www.firgelliauto.com/blogs/mechanisms/four-cylinder-motor)
-8. Dassault Systèmes, "SolidWorks." [https://www.solidworks.com](https://www.solidworks.com)
+1. J. B. Heywood, *Internal Combustion Engine Fundamentals*, 2nd ed. New York, NY, USA: McGraw-Hill Education, 2018.
+2. Wikipedia, "Straight-four engine." [https://en.wikipedia.org/wiki/Straight-four_engine](https://en.wikipedia.org/wiki/Straight-four_engine)
+3. Wikipedia, "Firing order." [https://en.wikipedia.org/wiki/Firing_order](https://en.wikipedia.org/wiki/Firing_order)
+4. Wikipedia, "Crankshaft." [https://en.wikipedia.org/wiki/Crankshaft](https://en.wikipedia.org/wiki/Crankshaft)
+5. Wikipedia, "Connecting rod." [https://en.wikipedia.org/wiki/Connecting_rod](https://en.wikipedia.org/wiki/Connecting_rod)
+6. Wikipedia, "Piston ring." [https://en.wikipedia.org/wiki/Piston_ring](https://en.wikipedia.org/wiki/Piston_ring)
+7. Wikipedia, "Gudgeon pin." [https://en.wikipedia.org/wiki/Gudgeon_pin](https://en.wikipedia.org/wiki/Gudgeon_pin)
+8. Perkins, "Piston rings have triple purpose." [https://www.perkins.com/en_GB/aftermarket/overhaul/overhaul-components/cylinder-components/piston-rings.html](https://www.perkins.com/en_GB/aftermarket/overhaul/overhaul-components/cylinder-components/piston-rings.html)
+9. FIRGELLI Automations, "Four Cylinder Motor Mechanism: How It Works, Diagram, Parts, Firing Order and Uses Explained." [https://www.firgelliauto.com/blogs/mechanisms/four-cylinder-motor](https://www.firgelliauto.com/blogs/mechanisms/four-cylinder-motor)
+10. Dassault Systèmes, "SolidWorks." [https://www.solidworks.com](https://www.solidworks.com)
 
